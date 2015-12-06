@@ -1,0 +1,72 @@
+How To Manage The Flozo Theme
+
+INSTALLATION
+
+- Download and install Wordpress on your server.
+- Copy the Flozo folder to your  wp-content » themes folder
+
+
+ACTIVATION
+
+- Log in to Wordpress and activate your theme by going to the Appearance tab » Themes and clicking the 'activate' button beneath the theme screenshot.
+
+
+SETUP
+
+- Once activated, visit the Theme Options page under Appearance to define the general content for your site.
+
+
+
+SETTING UP THE HOME PAGE
+
+- Create a new page under pages, this will be your home page, add your required title and text.
+
+- From the page attributes menu, select template - Home - click Publish.
+
+- Go to Settings » Reading and select Front page displays a static page, choose the home page you have just created.
+
+
+
+HOME PAGE SLIDER
+
+- In the Theme Options (Appearance » Theme Options), click on the home page slider menu button (underneath main settings) and add your images and text for each slider (up to 5). Notes on image sizes can be found alongside each upload button. Please ensure that you use the Full Size before pressing the 'send to OptionTree' button.
+
+- Add the required text
+
+- Click the 'save changes' button
+
+
+SITE-WIDE CONTENT (including telephone number, footer info, social media icons & more)
+
+- In Theme Options (Appearance » Theme Options) - main settings, enter the requested information - ranging from your logo to the footer text and click the 'save changes' button.
+
+
+MAIN NAVIGATION
+
+- To set up the main navigation bar visit Appearance » Menus and create a new menu called Main. Simply select the pages, links and/or categories that you require and hit the 'add to menu' button.
+
+
+PAGE TYPES
+
+- When creating pages, there are a number of page types for you to choose from, simply select the Template required from the Template drop down in the Page Attributes panel.
+
+
+WORK
+
+- To add examples of your work, go to the Work menu and click the 'add new' button. Add your title and copy accordingly.
+
+- The home page shows a featured image, to choose a featured image - simply click the 'set featured image' button and use Wordpress's media handler to either browse an image or choose from your library. When selected - simply click the 'set featured image' button and publish your work.
+
+- To add a gallery to your work, when editing a work item click on Add Media and select Create Gallery (Optimum image sizes are 391x604px). Choose the images you wish to use and click insert gallery. Publish your page.
+
+
+BLOG
+
+- Create a new page with the title you would like your blog to have and click Publish (do not add content)
+
+- In Settings » Reading, choose the page you just created as your posts page.
+
+- To manage your blog's sidebar, visit the Appearance » Widgets and drag and drop the widgets your would like into Sidebar 1 as you require.
+
+
+That's all, we hope you enjoy using this theme!
